@@ -1,0 +1,7 @@
+site_name: Git Notes
+nav:
+  - Home: index.md
+  - Getting Started Guide: getting-started.md
+  - Branching: branch.md
+theme:
+  name: material
